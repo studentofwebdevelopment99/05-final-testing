@@ -6,3 +6,7 @@
 body{
     display: block;
 }
+
+div{
+    padding: 40px;
+}
